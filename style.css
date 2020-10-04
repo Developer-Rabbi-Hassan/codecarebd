@@ -1,0 +1,89 @@
+.navcolor {
+    background: #15678F;
+}
+
+img {
+    width: 100%;
+}
+
+.menuitem {
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.menu1 {
+    float: left;
+}
+
+.menu2 {
+    overflow: hidden;
+}
+
+.menuitem:hover {
+    color: #B9AB89;
+}
+
+.icon {
+    text-align: right;
+}
+
+.content {
+    width: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.user {
+    text-align: center;
+    color: #15678F;
+    text-transform: capitalize;
+}
+
+.right {
+    width: 45%;
+}
+
+.btn {
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.btn2 {
+    border-radius: 10px;
+    background: #15678F;
+}
+
+.profile {
+    text-transform: capitalize;
+}
+
+.sup {
+    background: red;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+.sup span {
+    padding: 5px;
+}
+
+
+.form-group {
+    position: relative;
+}
+
+.form-group .palceholder {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+    color: #B1B1B1;
+    display: none;
+}
+
+
+.form-group .star {
+    color: red
+}
